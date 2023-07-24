@@ -22,7 +22,7 @@ In this challenge I analyzed both news publications and weather data from Mars t
 
 5. How many terrestrial days exist in a Martian year?
 
-    #### The data indicates that there are roughly earth 686 days in a Martian year, which is similar to what is indicated online (see below)
+    #### The data indicates that there are roughly 686 earth days in a Martian year, which is similar to what is indicated online (see below). 
 
 ## Sources: 
 
